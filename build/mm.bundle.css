@@ -10422,7 +10422,7 @@ a.button {
   color: inherit; }
 
 .bar-content .icon, .bar-side-menu .icon {
-  color: #ffffff; }
+  color: #478BCA; }
 
 .item-delete .button.icon,
 .item-delete .button.icon.active,
@@ -10595,21 +10595,21 @@ a.button {
 
 .bar-content {
   border-color: transparent;
-  background-color: #ffffff;
+  background-color: #478BCA;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff; }
   .bar-content .title {
     color: #ffffff; }
   .bar-content .button {
     border-color: transparent;
-    background-color: #ffffff;
+    background-color: #478BCA;
     color: #ffffff; }
     .bar-content .button:hover {
       color: #ffffff;
       text-decoration: none; }
     .bar-content .button.active, .bar-content .button.activated {
       border-color: transparent;
-      background-color: #ffffff; }
+      background-color: #478BCA; }
     .bar-content .button.button-clear {
       border-color: transparent;
       background: none;
